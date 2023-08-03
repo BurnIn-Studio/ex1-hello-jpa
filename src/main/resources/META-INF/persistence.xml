@@ -17,5 +17,5 @@
             <property name="hibernate.jdbc.batch_size" value="10"/>
             <!--<property name="hibernate.hbm2ddl.auto" value="create" />-->
         </properties>
-    </persistence-unit> 
+    </persistence-unit>
 </persistence>
